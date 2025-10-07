@@ -1,0 +1,31 @@
+body{
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    background-color:#EDD9FC;
+}
+
+a{
+    color: #7B18A7;
+}
+
+table{
+    border-collapse: collapse;
+    border: 2px solid palevioletred;
+    table-layout: fixed;
+    width: 100%;
+}
+
+td{
+    padding: 5px;
+    border: 1px solid palevioletred;
+}
+th{
+    color: white;
+    background-color: palevioletred;
+    padding: 5px;
+}
+tr{
+    height: 45px;
+}
